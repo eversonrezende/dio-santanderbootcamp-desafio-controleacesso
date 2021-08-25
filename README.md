@@ -11,3 +11,4 @@ API REST para controle de ponto e acesso dos usuários de uma empresa. [@Rodolfo
 - Hibernate
 - Lombok
 - Swagger
+- H2 Database
