@@ -17,4 +17,4 @@ API REST para controle de ponto e acesso dos usuários de uma empresa. [@Rodolfo
 
 Rodar a classe`//SistemapontoApplication.java` class
 
-Digitar no navegar o endereço: `http://localhost:8081/swagger-ui.html`
+Digitar no navegador o endereço: `http://localhost:8081/swagger-ui.html`
