@@ -12,3 +12,9 @@ API REST para controle de ponto e acesso dos usuários de uma empresa. [@Rodolfo
 - Lombok
 - Swagger
 - H2 Database
+
+### Etapas
+
+Rodar a classe`//SistemapontoApplication.java` class
+
+Digitar no navegar o endereço: `http://localhost:8081/swagger-ui.html`
